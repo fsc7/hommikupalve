@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 theme: jekyll-theme-tactile
 title: Hommikupalve
 description: [Hommikupalve "for estonians"]
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
+=======
+theme: jekyll-theme-dinky
+>>>>>>> 72b68c306c5e265a320d750d9b363207fe2bcf62
